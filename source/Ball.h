@@ -1,0 +1,1 @@
+void initGameBall(SDL_Renderer *renderer, SDL_Color colors[], SDL_Event event);
